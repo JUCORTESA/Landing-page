@@ -1,5 +1,5 @@
 # Personal web page for Fi-lo
 
-A food review app for Andorid.
+A Restaurant Advisor app for Andorid.
 
-Know about us at: 
+Know about us at: https://jucortesa.github.io/Landing-page/
